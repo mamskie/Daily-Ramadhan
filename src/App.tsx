@@ -2,6 +2,7 @@ import { Navbar } from "./components/navbar";
 import { RamadhanTracker } from "./components/ramadhan-tracker";
 import { ThemeProvider } from "./components/theme-provider";
 import "./i18n/i18n"; // Import to initialize i18n
+import { Analytics } from "@vercel/analytics/react"
 
 function App() {
   return (
