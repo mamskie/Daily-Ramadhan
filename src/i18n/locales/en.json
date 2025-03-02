@@ -1,0 +1,33 @@
+{
+  "appTitle": "Daily Ramadhan",
+  "todayIs": "Today is Day {{day}} of Ramadhan",
+  "notRamadhan": "It's not currently Ramadhan",
+  "todayActivities": "Today's Activities",
+  "trackActivities": "Track your daily activities",
+  "saveProgress": "Save Progress",
+  "dataSaved": "Data saved successfully!",
+  "ramadhanJourney": "Your Ramadhan Journey",
+  "summary": "Summary",
+  "statistics": "Statistics",
+  "statsComingSoon": "Detailed statistics will be available as you track more days.",
+  "daysTracked": "Days Tracked",
+  "perfectDays": "Perfect Days",
+  "activityCompletion": "Activity Completion",
+  "daysCount": "{{count}}/{{total}} days",
+  "activities": {
+    "puasa": "Fasting",
+    "shubuh": "Shubuh Prayer",
+    "dzuhr": "Dzuhr Prayer",
+    "ashr": "Ashr Prayer",
+    "maghrib": "Maghrib Prayer",
+    "isya": "Isya Prayer",
+    "tarawih": "Tarawih Prayer"
+  },
+  "language": "Language",
+  "english": "English",
+  "indonesian": "Bahasa Indonesia",
+  "theme": "Theme",
+  "light": "Light",
+  "dark": "Dark",
+  "system": "System"
+}
