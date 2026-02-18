@@ -31,7 +31,7 @@ export type DailyRecord = {
 // Get Ramadhan dates
 const getRamadhanDates = () => {
   const currentYear = new Date().getFullYear();
-  const ramadhanStart = new Date(currentYear, 2, 1); // March 1, 2025
+  const ramadhanStart = new Date(currentYear, 1, 18); // 19 February
   const ramadhanEnd = addDays(ramadhanStart, 29); // 30 days later
 
   return { ramadhanStart, ramadhanEnd };
